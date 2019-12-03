@@ -1,0 +1,13 @@
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Debug\ePrint Helper.exe.config
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Debug\ePrint Helper.exe
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Debug\ePrint Helper.pdb
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.csprojAssemblyReference.cache
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint_Helper.Form1.resources
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint_Helper.Properties.Resources.resources
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.csproj.GenerateResource.cache
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.csproj.CoreCompileInputs.cache
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.exe
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.pdb
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint_Helper.mailSettings.resources
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Debug\EASendMail.dll
+c:\users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Debug\ePrint Helper.csproj.CopyComplete

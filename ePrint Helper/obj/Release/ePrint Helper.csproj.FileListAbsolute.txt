@@ -1,0 +1,17 @@
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\ePrint Helper.exe.config
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\ePrint Helper.exe
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\ePrint Helper.pdb
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\EASendMail.dll
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint_Helper.Form1.resources
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint_Helper.mailSettings.resources
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint_Helper.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.csproj.CopyComplete
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.exe
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.pdb
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\ePrint Helper.exe.manifest
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\bin\Release\ePrint Helper.application
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.exe.manifest
+C:\Users\vmadmin\source\repos\ePrint Helper\ePrint Helper\obj\Release\ePrint Helper.application
